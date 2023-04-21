@@ -6,6 +6,7 @@
 		"dev": "wrangler dev src/index.mjs --local"
 	},
 	"devDependencies": {
+		"@cloudflare/kv-asset-handler": "^0.3.0",
 		"wrangler": "^2.0.0"
 	}
 }
